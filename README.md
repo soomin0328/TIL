@@ -1,7 +1,7 @@
 # Today I Learn !
 > (a.k.a. 1일 1커밋)
 
-### **:warning:신규 프로젝트 투입으로 1일1커밋이 아닌 주말커밋 합니다:fearful::sweat_drops::warning:**
+### **:warning:신규 프로젝트 투입으로 1일1커밋이 아닌 틈틈쓰 커밋 합니다:fearful::sweat_drops::warning:**
 
 
 ***
